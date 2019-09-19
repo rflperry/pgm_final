@@ -2,3 +2,5 @@
 ## Final Project
 
 An open-ended data analysis project with the goal of applying probabilistic methods, based on graphical models, to real data. The result is a short paper in the NeurIPS conference format featuring a structure learning task and inference task. Multiple methods and approaches are compared.
+
+See paper at [this link](https://github.com/rflperry/rflperry.github.io/tree/master/files/rperry27_PGM_Final_Project.pdf).
